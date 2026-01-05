@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "2470",
+      "name": "Vivek ",
+      "email": "vivek@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "leads": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@gmail.com",
+      "phone": "098-765-4321",
+      "source": "Referral",
+      "status": "New",
+      "createdAt": "2025-11-15"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bobjohnson@gmail.com",
+      "phone": "555-555-5555",
+      "source": "Social Media",
+      "status": "Converted",
+      "createdAt": "2025-10-10"
+    },
+    {
+      "id": "a98e",
+      "name": "Vivek Dehariya",
+      "email": "vivekdehariya298@gmail.com",
+      "phone": "074895 49709",
+      "status": "Contacted",
+      "source": "Social Media",
+      "createdAt": "2024-06-01"
+    },
+    {
+      "id": "5404",
+      "name": "ankit verma",
+      "email": "ankit@gmail.com",
+      "phone": "123-456-7890",
+      "status": "Converted",
+      "source": "Website",
+      "createdAt": "2026-01-03T13:10:54.491Z"
+    },
+    {
+      "id": "790a",
+      "name": "Rahul sharma",
+      "email": "rahul@gmail.com",
+      "phone": "123-456-1230",
+      "status": "Contacted",
+      "source": "Other",
+      "createdAt": "2026-01-03T13:17:17.204Z"
+    }
+  ]
+}
